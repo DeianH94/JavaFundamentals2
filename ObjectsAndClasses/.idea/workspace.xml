@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c47c5e1-5792-43c3-b0cd-a30c4a93943e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zo2knJ3Pcu7uT4QzUfgniK0snM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/exercises/articles2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\JavaFundamentals\ObjectsAndClasses\src\exercises\articles2" />
+      <recent name="C:\Users\Admin\IdeaProjects\JavaFundamentals\ObjectsAndClasses\src\lab\students2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.orderByAge.Main" />
+      <module name="ObjectsAndClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.orderByAge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moreExercises.companyRoster.Main" />
+      <module name="ObjectsAndClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreExercises.companyRoster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moreExercises.rawData.Main" />
+      <module name="ObjectsAndClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreExercises.rawData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moreExercises.carSalesman.Main" />
+      <module name="ObjectsAndClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreExercises.carSalesman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moreExercises.teamworkProjects.Main" />
+      <module name="ObjectsAndClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreExercises.teamworkProjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c47c5e1-5792-43c3-b0cd-a30c4a93943e" name="Default Changelist" comment="" />
+      <created>1585491271118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585491271118</updated>
+      <workItem from="1585491274120" duration="12403000" />
+      <workItem from="1585505791015" duration="7007000" />
+      <workItem from="1585566913956" duration="6820000" />
+      <workItem from="1585575369707" duration="4799000" />
+      <workItem from="1585930061641" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Getter_Template" timestamp="1585493183364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Getter_Template/0.0.1366.728@0.0.1366.728" timestamp="1585493183364" />
+    <state x="275" y="23" key="#Setter_Template" timestamp="1585493145999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Setter_Template/0.0.1366.728@0.0.1366.728" timestamp="1585493145999" />
+    <state x="275" y="6" key="#Template" timestamp="1585492966901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="6" key="#Template/0.0.1366.728@0.0.1366.728" timestamp="1585492966901" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1585578336155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585578336155" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1585580179819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585580179819" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1585580179819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585580179819" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1585580179819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585580179819" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1585580179819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585580179819" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1585580179819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585580179819" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1585580179819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585580179819" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1585580179819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585580179819" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1585580179819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585580179819" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1585492909069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585492909069" />
+    <state x="782" y="183" key="extract.method.dialog" timestamp="1585509094635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="782" y="183" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1585509094635" />
+    <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1585930066861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1585930066861" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585580178430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585580178430" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585491723067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585491723067" />
+  </component>
+</project>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bf51733-18ff-42f0-a7d8-312514139b7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zih38WYs0dtpY4y3Ja8rTbSpsj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DrumSet">
+    <configuration name="CarRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moreExercises.CarRace" />
+      <module name="Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrumSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moreExercises.DrumSet" />
+      <module name="Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Messaging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moreExercises.Messaging" />
+      <module name="Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixedUpLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moreExercises.MixedUpLists" />
+      <module name="Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakeSkipRope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moreExercises.TakeSkipRope" />
+      <module name="Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DrumSet" />
+        <item itemvalue="Application.MixedUpLists" />
+        <item itemvalue="Application.TakeSkipRope" />
+        <item itemvalue="Application.CarRace" />
+        <item itemvalue="Application.Messaging" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bf51733-18ff-42f0-a7d8-312514139b7e" name="Default Changelist" comment="" />
+      <created>1585327620026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585327620026</updated>
+      <workItem from="1585327622692" duration="14689000" />
+      <workItem from="1585418164285" duration="13693000" />
+      <workItem from="1585480387978" duration="1272000" />
+      <workItem from="1585484212553" duration="3822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585487637074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585487637074" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1585488048950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585488048950" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1585488048949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585488048949" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1585488048949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585488048949" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1585488048950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585488048950" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1585488048950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585488048950" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1585488048950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585488048950" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1585488048950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585488048950" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1585488048950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585488048950" />
+    <state x="498" y="298" key="ReplaceDuplicatesPrompt" timestamp="1585428553966">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="298" key="ReplaceDuplicatesPrompt/0.0.1366.728@0.0.1366.728" timestamp="1585428553966" />
+    <state x="249" y="13" key="SettingsEditor" timestamp="1585486541826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="249" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585486541826" />
+    <state x="413" y="119" width="540" height="496" key="extract.method.dialog" timestamp="1585428552498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" width="540" height="496" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1585428552498" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585488047160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585488047160" />
+  </component>
+</project>
